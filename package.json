@@ -1,7 +1,7 @@
 {
   "name": "not-even",
   "homepage": "https://github.com/DeaSTL/not-even#readme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "checks if a number provided is not even",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "deastl",
   "license": "MIT",
   "dependencies": {
-    "is-even": "^1.0.1"
+    "is-even": "^1.0.0"
   },
   "keywords": [
     "even",
