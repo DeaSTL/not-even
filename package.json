@@ -10,7 +10,7 @@
   "author": "deastl",
   "license": "MIT",
   "dependencies": {
-    "is-even": "^1.0.0"
+    "is-even": "^1.0.1"
   },
   "keywords": [
     "even",

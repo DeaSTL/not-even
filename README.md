@@ -12,3 +12,5 @@ noteven(4)  // => false
 ```
 
 that's it
+
+[Buy Me a Coffee!](https://www.buymeacoffee.com/packageflippers)
